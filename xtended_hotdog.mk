@@ -45,3 +45,6 @@ XTENDED_BUILD_TYPE := OFFICIAL
 
 # Maintainer
 XTENDED_MAINTAINER := mukesh22584
+
+# We're shipping build with Gapps
+WITH_GMS := true
